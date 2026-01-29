@@ -1,4 +1,4 @@
-# 📊 Mini Projeto 4 – Análise de Vendas com Pandas
+# 📊 Mini-Projeto4: Análise de Vendas com Pandas
 
 Este projeto faz parte do curso **Fundamentos de Linguagem Python – Do Básico a Aplicações de IA**, da **Data Science Academy**.
 
@@ -50,9 +50,7 @@ Ao final do projeto, espera-se responder perguntas como:
 ## 📁 Estrutura do Projeto
 
 ```
-
-📦 MiniProjeto4
-┣ 📜 DSA-Python-MiniProjeto4.ipynb
+┣ 📜 Mini-Project4.ipynb
 ┗ 📜 README.md
 
 ````
@@ -115,14 +113,6 @@ O projeto é considerado bem-sucedido quando entrega:
 * Dataset limpo e confiável
 * Insights claros para tomada de decisão
 * Visualizações compreensíveis e úteis para o negócio
-
----
-
-## 📚 Créditos
-
-Projeto desenvolvido como parte do curso da
-**Data Science Academy**
-🌐 [https://www.datascienceacademy.com.br](https://www.datascienceacademy.com.br)
 
 ---
 
